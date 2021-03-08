@@ -12,4 +12,4 @@ for node (api server) -
 for react - 
 
     . go inside the frontend folder and run "npm install"
-    . run the frontend with "npm start" inside frontend
+    . run the project with "npm start" inside frontend
