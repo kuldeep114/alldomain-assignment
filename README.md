@@ -6,8 +6,8 @@ Technology Stack
 - database mongoDB
 - backend react
 
-- react project is also inside the main project with the name "frontend"
-- clone/download the project
+react project is also inside the main project with the name "frontend"
+clone/download the project
 
 
 for node (api server) -
