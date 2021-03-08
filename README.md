@@ -2,9 +2,9 @@
 alldomain-assignment
 
 Technology Stack 
-- backed  Node with express
-- database mongoDB
-- backend react
+- backed  - Node with express
+- database - mongoDB
+- frontend - react
 
 react project is also inside the main project with the name "frontend"
 
