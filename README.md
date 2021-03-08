@@ -5,10 +5,10 @@ alldomain-assignment
 - react project is also inside the main project with the name "frontend"
 - clone/download the project
 
-Technology Stack - 
-    .backed  Node with express
-    .database mongoDB
-    .backend react
+Technology Stack 
+    - backed  Node with express
+    - database mongoDB
+    - backend react
 
 for node (api server) -
 
