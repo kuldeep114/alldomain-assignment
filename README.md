@@ -6,9 +6,9 @@ alldomain-assignment
 - clone/download the project
 
 Technology Stack 
-    - backed  Node with express
-    - database mongoDB
-    - backend react
+- backed  Node with express
+- database mongoDB
+- backend react
 
 for node (api server) -
 
