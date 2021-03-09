@@ -4,7 +4,7 @@ alldomain-assignment
 Technology Stack 
 - backed  - Node with express
 - database - mongoDB
-- frontend - react
+- frontend - 69.167.171.137react
 
 react project is also inside the main project with the name "frontend"
 
